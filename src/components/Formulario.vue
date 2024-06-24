@@ -20,8 +20,8 @@ const props = defineProps([
           class="form-control"
         />
       </div>
-      <div class="col-md-2">
-        <button type="submit" class="btn btn-primary my-3 my-lg-0">
+      <div class="col-md-2 d-flex justify-content-center align-items-center">
+        <button type="submit" class="btn btn-success my-3 my-lg-0">
           Cadastrar tarefa
         </button>
       </div>
